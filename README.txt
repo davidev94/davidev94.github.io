@@ -1,4 +1,8 @@
+Repository for my personal website, no commercial purpose.
+
 Credits:
+
+	ME (davidev94)
 
 	Site Template:
 		Massively  by HTML5 UP
